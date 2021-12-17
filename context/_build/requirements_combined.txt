@@ -1,0 +1,5 @@
+pytz  # from collection awx.awx
+python-dateutil>=2.7.0  # from collection awx.awx
+awxkit  # from collection awx.awx
+ara  # from collection user
+ldap3  # from collection user
